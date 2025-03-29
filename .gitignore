@@ -76,3 +76,5 @@ crashlytics-build.properties
 /MOLES/Assets/Imported_Assets/*
 
 MOLES/Library/
+
+MOLES/Logs/
