@@ -78,3 +78,5 @@ crashlytics-build.properties
 MOLES/Library/
 
 MOLES/Logs/
+
+MOLES/obj/
